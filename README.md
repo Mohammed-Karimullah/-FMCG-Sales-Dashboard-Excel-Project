@@ -29,7 +29,7 @@ This project simulates a real-world FMCG sales dataset to:
 - 📌 **Total Sales & Units Sold Cards**
 - 📊 **Sales by Region and Category**
 - 🧑‍🤝‍🧑 **Sales by Sales Rep**
-- 📈 **Monthly Sales Trend (Line Chart)**
+- 📈 **Monthly Sales Trend**
 - 🏆 **Top 5 Best-Selling Products**
 
 ---
@@ -53,7 +53,7 @@ This project simulates a real-world FMCG sales dataset to:
 ## 🔗 Connect
 
 Feel free to fork or use this as a reference.  
-📩 For feedback or collaboration: [Your LinkedIn/Email here]
+📩 For feedback or collaboration: [www.linkedin.com/in/mohammed-karimullah-68281821b]
 
 ---
 
